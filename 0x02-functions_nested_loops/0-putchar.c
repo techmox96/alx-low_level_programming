@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * main -print_putchar
- * Return : 0
+ * main - Entry point
+ * Descreptiop : printing _putchar, followed by a new line.'
+ * Return: 0
  */
-
 int main(void)
 {
 	_putchar('_');
