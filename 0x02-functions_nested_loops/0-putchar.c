@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main() {
-	char text[] = "_putchar";
-	puts(text);
-	return 0;
+	    printf("_putchar\n");
+	        return 0;
 }
