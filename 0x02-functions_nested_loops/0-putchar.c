@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point
- * Descreptiop : printing _putchar, followed by a new line.'
+ * main - print_putchar
  * Return: 0
  */
 int main(void)
